@@ -3,7 +3,7 @@ Hello!
 
 ![Image](https://tse1.mm.bing.net/th?id=OIP.8LZXRf13eYIi-g6nxSfghgAAAA&pid=Api&rs=1&c=1&qlt=95&w=157&h=97)
 
-This is a tutoriol for CSE 15L students for how to log into a course-specific account on **ieng6**.
+This is a tutorial for CSE 15L students for how to log into a course-specific account on **ieng6**.
 
 ## Step 1 - Finding your CSE15L Account
 
