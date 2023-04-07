@@ -7,9 +7,11 @@ This is a tutoriol for CSE 15L students for how to log into a course-specific ac
 
 ## Step 1 - Finding your CSE15L Account
 
-Follow this link: [Link](https://sdacs.ucsd.edu/~icc/index.php). If you've already reset your account, great! 
+Your account username should be in the form `cs15lsp23zz` where the "zz"'s are specific to your account.
 
-If not, here's a tutorial: [Link](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view?usp=share_link)
+Follow this link: [Account Lookup](https://sdacs.ucsd.edu/~icc/index.php). If you've already reset your account, great! 
+
+If not, here's a tutorial: [How to Change Password](https://drive.google.com/file/d/17IDZn8Qq7Q0RkYMxdiIR0o6HJ3B5YqSW/view?usp=share_link)
 
 **Write down your password! You'll need it later!**
 
