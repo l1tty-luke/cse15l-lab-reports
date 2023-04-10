@@ -35,7 +35,7 @@ Afterwords, open a new terminal in VSCode and click on the "+" at the top right 
 
 ![Image](gitbash.png)
 
-Now, in the bash terminal, type: `ssh cs15lsp23zz@ieng6.ucsd.edu` If a message appears asking for confirmation to connect to hot "ieng6.ucsd.edu", click YES. Then, type in your password.
+Now, in the bash terminal, type: `ssh cs15lsp23zz@ieng6.ucsd.edu` If a message appears asking for confirmation to connect to host "ieng6.ucsd.edu", click YES. Then, type in your password.
 
 ![Image](bashlogin.png)
 
