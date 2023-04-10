@@ -63,4 +63,9 @@ Example, `ls`, or "List", which lists the file and folders in the given path.
 
 From here, you can `cd` or "Change Directory", this can switch the current working directory to the given path. You can view the different commands and see examples from the worksheet from Week 1 lectures.
 
-Thats the end of the tutorial! 
+In order to sign out, type in the command `exit`. 
+
+Thats the end of the tutorial!
+
+
+
