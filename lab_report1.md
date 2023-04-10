@@ -51,7 +51,7 @@ Two:
 
 ![Image](closedhost.png)
 
-If this happens, it's okay, just keep on trying to log in periodically. Eventually, it will work.
+This is personally what happened to me the first several times. It's okay if this happens, because you just need to keep trying periodically and eventually it will work.
 
 ## Step 5 - Try some commands!
 
@@ -61,7 +61,6 @@ Example, `ls`, or "List", which lists the file and folders in the given path.
 
 ![Image](ls.png) (Courtesy of Luca)
 
-
-From here, you can `cd` or "Change Directory", this can switch the current working directory to the given path.
+From here, you can `cd` or "Change Directory", this can switch the current working directory to the given path. You can view the different commands and see examples from the worksheet from Week 1 lectures.
 
 Thats the end of the tutorial! 
