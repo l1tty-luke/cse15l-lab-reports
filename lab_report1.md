@@ -59,7 +59,7 @@ Try the commands: `cd`, `ls`, `pwd`, `mkdir`, and `cp`.
 
 Example, `ls`, or "List", which lists the file and folders in the given path.
 
-~[Image](ls) (Courtesy of Luca)
+![Image](ls.png) (Courtesy of Luca)
 
 
 From here, you can `cd` or "Change Directory", this can switch the current working directory to the given path.
