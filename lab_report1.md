@@ -43,9 +43,9 @@ Now, two things will happen:
 
 One:
 
-![Image](loginsuccess.png)
+![Image](loginsuccess.png) (Courtesy of Nathalie)
 
-If this happens, continue to Step 4!
+If this happens, continue to Step 5!
 
 Two:
 
@@ -54,3 +54,14 @@ Two:
 If this happens, it's okay, just keep on trying to log in periodically. Eventually, it will work.
 
 ## Step 5 - Try some commands!
+
+Try the commands: `cd`, `ls`, `pwd`, `mkdir`, and `cp`.
+
+Example, `ls`, or "List", which lists the file and folders in the given path.
+
+~[Image](ls) (Courtesy of Luca)
+
+
+From here, you can `cd` or "Change Directory", this can switch the current working directory to the given path.
+
+Thats the end of the tutorial! 
