@@ -23,4 +23,4 @@ However, if you don't have it downloaded already here's the link: [VSCode](https
 
 After it's installed, it should look like this:
 
-![Image](C:\Users\l1tty\Pictures\Screenshots\Screenshot 2023-04-08 200037.png)
+![Image](vscode1.png)
