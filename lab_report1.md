@@ -33,23 +33,23 @@ Download [here](https://gitforwindows.org/). Don't worry about changing any of t
 
 Afterwords, open a new terminal in VSCode and click on the "+" at the top right of the terminal. There, a dropdown menu should open and then click on "bash"
 
-![Image](terminal)
+![Image](gitbash.png)
 
-Now, in the bash terminal, type: `ssh cs15lsp23zz` <-- your username. If a message appears asking for confirmation to connect to hot "ieng6.ucsd.edu", click YES. Then, type in your password.
+Now, in the bash terminal, type: `ssh cs15lsp23zz@ieng6.ucsd.edu` If a message appears asking for confirmation to connect to hot "ieng6.ucsd.edu", click YES. Then, type in your password.
 
-![Image](terminal)
+![Image](bashlogin.png)
 
 Now, two things will happen:
 
 One:
 
-![Image](success)
+![Image](loginsuccess.png)
 
 If this happens, continue to Step 4!
 
 Two:
 
-![Image](disconnected)
+![Image](closedhost.png)
 
 If this happens, it's okay, just keep on trying to log in periodically. Eventually, it will work.
 
