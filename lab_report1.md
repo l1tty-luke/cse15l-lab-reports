@@ -24,3 +24,33 @@ However, if you don't have it downloaded already here's the link: [VSCode](https
 After it's installed, it should look like this:
 
 ![Image](vscode1.png)
+
+Mine may look different then yours because I changed VSCode's appearance based on my preferances.
+
+## Step 3 - Downloading Git and Remotely Connecting
+
+Download [here](https://gitforwindows.org/). Don't worry about changing any of the download options, just use the defaults.
+
+Afterwords, open a new terminal in VSCode and click on the "+" at the top right of the terminal. There, a dropdown menu should open and then click on "bash"
+
+![Image](terminal)
+
+Now, in the bash terminal, type: `ssh cs15lsp23zz` <-- your username. If a message appears asking for confirmation to connect to hot "ieng6.ucsd.edu", click YES. Then, type in your password.
+
+![Image](terminal)
+
+Now, two things will happen:
+
+One:
+
+![Image](success)
+
+If this happens, continue to Step 4!
+
+Two:
+
+![Image](disconnected)
+
+If this happens, it's okay, just keep on trying to log in periodically. Eventually, it will work.
+
+## Step 5 - Try some commands!
